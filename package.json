@@ -10,7 +10,7 @@
 	"main": "./lib/Pipe.coffee",
 	"bin": {},
 	"dependencies": {
-		"opifex" : ">=0.0.6"
+		"opifex" : ">=0.0.8"
 	},
 	"devDependencies": {},
 	"optionalDependencies": {},
